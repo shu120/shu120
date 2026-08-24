@@ -1,7 +1,11 @@
-## Hi there 👋
+<p align="left">
+  <img src="output/metrics.svg" alt="GitHub metrics" width="700" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shu120&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=shu120&show_icons=true&locale=ja&theme=chartreuse-dark" alt="GitHub Stats" width="410" /></p>
-
-<img src="https://github-profile-trophy.vercel.app/?username=shu120&theme=juicyfresh&no-bg=true" />
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" />
+    <img src="profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph" width="700" />
+  </picture>
+</p>

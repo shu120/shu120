@@ -7,5 +7,5 @@
 </p>
 
 <p align="left">
-  <img src="output/metrics.svg" alt="GitHub metrics" width="400" />
+  <img src="output/metrics.svg" alt="GitHub metrics" width="500" />
 </p>
